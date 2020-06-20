@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">valorantinfo</string>
+    <string name="saved_fav_agent_key">key_fav_agent</string>
+    <string name="main_header">DEFY THE LIMITS</string>
+    <string name="main_body">VALORANT is your global competitive stage. It’s a 5v5 tac-shooter matchup to plant or defuse the Spike in a one-life-per-round, first to 13 series. More than guns and bullets, you’ll choose an Agent armed with adaptive, swift, and lethal abilities that create opportunities to let your gunplay shine.
+Creativity is your greatest weapon.</string>
+    <string name="button_characters">Agents</string>
+    <string name="button_maps">Maps</string>
+
+    <string name="map1">Haven</string>
+    <string name="map1_desc">Beneath a forgotten monastery, a clamour emerges from rival Agents clashing to control three sites. There’s more territory to control, but defenders can use the extra real estate for aggressive pushes.</string>
+
+    <string name="class_duelist">Duelist</string>
+    <string name="class_support">Support</string>
+
+    <string name="char1">Pheonix</string>
+    <string name="char1desc">Hailing from the U.K., Phoenix’s star power shines through in his fighting style, igniting the battlefield with flash and flare. Whether he’s got backup or not, he’ll rush into a fight on his own terms.</string>
+    <string name="char2">Jett</string>
+    <string name="char2desc">Representing her home country of South Korea, Jett’s agile and evasive fighting style lets her take risks no one else can. She runs circles around every skirmish, cutting enemies before they even know what hit them.</string>
+    <string name="char3">Sage</string>
+    <string name="char3desc">The stronghold of China, Sage creates safety for herself and her team wherever she goes. Able to revive fallen friends and stave off aggressive pushes, she provides a calm center to a hellish fight.</string>
+
+    <string name="favoriteHeader">Your Favorite\nAgent is:</string>
+</resources>
